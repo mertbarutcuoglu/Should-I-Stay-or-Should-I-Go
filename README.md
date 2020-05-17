@@ -17,7 +17,7 @@ By using the web application, users can see the number of people who are current
 Other than this, businesses can set an upper limit of the number of people that they can allow inside, and by using this number, 
 users can decide whether to go or not to go to that location. This creates a huge benefit for the businesses as well, because since customers know whether or not the location is available, they don't cause a demand that the businesses cannot provide.
 
-Link to web application: [mertbarutcuoglu/SISOSIG-Web](https://github.com/mertbarutcuoglu/SISOSIG-Web)
+Link to web application repository: [mertbarutcuoglu/SISOSIG-Web](https://github.com/mertbarutcuoglu/SISOSIG-Web)
 
 ## References
 - [Oxford Town Centre Dataset](https://megapixels.cc/oxford_town_centre/)
